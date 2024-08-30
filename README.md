@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kanza!
+# 👋 Hello, I'm Kanza! ![Profile Views](https://komarev.com/ghpvc/?username=kanza-paklogics&color=blue)
 
 ## 🧑‍💻 About Me
 I'm a passionate Full Stack Developer with extensive experience in crafting robust, scalable web and mobile applications. My expertise spans a wide range of technologies, and I take pride in transforming ideas into reality with high-quality, customized solutions. Whether you're looking for a sleek frontend design, a powerful backend system, or a user-friendly mobile app, I'm here to help bring your vision to life.
@@ -6,7 +6,9 @@ I'm a passionate Full Stack Developer with extensive experience in crafting robu
 ## 🛠️ Tech Stack
 Here’s a glimpse of the technologies I work with:
 
-- **Programming Languages:** 
+- **Programming Languages:**
+  - ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)
+  - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -95,4 +97,4 @@ I also specialize in creating intuitive and engaging user interfaces. My UI/UX d
 ## 📬 Let's Connect!
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
 
-- **Email:** [kanza@example.com](mailto:kanza@example.com)
+- **Email:** [kanza@paklogics.com](mailto:kanza@paklogics.com)
